@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: 3785be90e17e0bd4c80972950aef3a0a
+  productGUID: 8b7f06ad503c5a24888e273b6777c392
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: DDV_Taller_1
+  productName: DSV_1
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -676,14 +676,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: DDV_Taller_1
+  metroPackageName: DSV_1
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: DDV_Taller_1
+  metroApplicationDescription: DSV_1
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -752,10 +752,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: f93db0e4-b399-4a78-9f3b-0381e8bb877c
+  cloudProjectId: a7ae1332-4389-4cdf-b146-174204b8a53c
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: DDV_Taller_1
+  projectName: DSV_1
   organizationId: mjijon2345
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
